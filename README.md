@@ -12,6 +12,7 @@ This repository contains an end-to-end analysis exploring the relationship betwe
 ├── fear_greed_index.csv      # Daily Fear & Greed Index values
 ├── historical_data.csv       # Raw trade‑level transaction records (~211k rows)
 ├── PrimeTrade.ipynb          # Jupyter notebook containing the full analysis
+├── app.py                    # Streamlit frontend for insights
 ├── Summary.md                # Executive summary of key findings and recommendations
 ├── README.md                 # This documentation file
 ```
