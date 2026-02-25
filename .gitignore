@@ -135,7 +135,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.csv
 .env
 .envrc
 .venv
@@ -206,3 +205,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+*.csv
